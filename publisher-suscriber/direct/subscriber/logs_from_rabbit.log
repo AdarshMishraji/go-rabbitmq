@@ -1,0 +1,7 @@
+2024/11/24 22:23:10 Binding queue amq.gen-ZGPPhLOXsaC_og4KeWrpIQ to exchange logs-direct with routing key warning
+2024/11/24 22:23:10 Binding queue amq.gen-ZGPPhLOXsaC_og4KeWrpIQ to exchange logs-direct with routing key error
+2024/11/24 22:23:10  [*] Waiting for logs. To exit press CTRL+C
+2024/11/24 22:24:33 [x] Run. Run. Or it will explode.
+2024/11/24 22:24:55 [x] Run. Run. Or it will explode.
+2024/11/24 22:25:00 [x] Run. Run. Or it will explode.
+signal: interrupt
